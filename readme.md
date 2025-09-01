@@ -15,6 +15,9 @@ This repository contains a set of Java-based Selenium automation assignments. Th
 3. **Bus Search Flow**  
    Automate the flow of fetching buses between source and destination cities.
 
+4. **fast.com website**  
+   Capturing the internet speed
+    
 ---
 
 ## 🛠️ Tech Stack & Dependencies
