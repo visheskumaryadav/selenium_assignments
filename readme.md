@@ -12,11 +12,14 @@ This repository contains a set of Java-based Selenium automation assignments. Th
 2. **Automating Yatra Website**  
    Navigate and automate calendar to find the lowest fare between current and next month [Yatra.com](https://www.yatra.com).
 
-3. **Bus Search Flow**  
+3. **RedBus Search Flow**  
    Automate the flow of fetching buses between source and destination cities.
 
 4. **fast.com website**  
-   Capturing the internet speed
+   Capturing the internet speed [Fast.com](https://fast.com/)
+
+5.  **Codepen website**  
+    Erasing css text and adding new text using Actions class [Codepen](https://codepen.io/rolandixor/pen/mdwZReq).
     
 ---
 
